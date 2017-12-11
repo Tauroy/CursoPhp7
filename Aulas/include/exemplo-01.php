@@ -1,0 +1,11 @@
+<?php 
+	/*//////////////////////////////////////////////////
+	Incluindo Arquivos Com Include e Require tempo: 20:00 
+	//////////////////////////////////////////////////*/
+	//include e require
+
+function somar($a,$b){
+	return $a + $b;
+}
+
+?>
