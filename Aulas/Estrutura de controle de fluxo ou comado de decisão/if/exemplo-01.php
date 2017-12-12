@@ -4,7 +4,7 @@
 	/////////////////////////////////////////////////////////*/
 	//Estrutura de controle de fluxo ou comado de decisão.
 
-	 //if --> Se; else --> Se não; else if; echo()?:;
+	 //if --> Se; else --> Se não; else if; echo() ... ? ... : ... ;
 
 	 	$qualASuaIdade = 75;
 
